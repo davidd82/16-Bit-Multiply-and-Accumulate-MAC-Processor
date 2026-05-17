@@ -103,9 +103,15 @@ Add screenshots of your:
 
 ### 1-Bit Full Adder Layout:
 
-![1-Bit Full Adder Schematic](img/adder_layout.png)
+![1-Bit Full Adder Layout](img/adder_layout.png)
 
+### 4-Bit RCA Schematic:
 
+![4-Bit RCA](img/rca_schem.png)
+
+### 4-Bit RCA Layout:
+
+![4-Bit RCA](img/rca_layout.png)
 ---
 
 ## Future Improvements
