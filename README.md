@@ -97,11 +97,13 @@ Add screenshots of your:
 - Waveforms
 - MAC datapath diagrams
 
-### 5. 1-Bit Full Adder Schematic
+### 1-Bit Full Adder Schematic:
 
 ![1-Bit Full Adder Schematic](img/adder.png)
 
+### 1-Bit Full Adder Layout:
 
+![1-Bit Full Adder Schematic](img/adder_layout.png)
 
 
 ---
