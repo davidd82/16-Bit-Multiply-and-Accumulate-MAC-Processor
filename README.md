@@ -90,13 +90,6 @@ Transistor sizing and datapath optimization techniques were applied to improve t
 
 ## Screenshots
 
-Add screenshots of your:
-- Schematic designs
-- Layouts
-- DRC/LVS results
-- Waveforms
-- MAC datapath diagrams
-
 ### 1-Bit Full Adder Schematic:
 
 ![1-Bit Full Adder Schematic](img/adder.png)
