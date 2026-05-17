@@ -112,6 +112,12 @@ Add screenshots of your:
 ### 4-Bit RCA Layout:
 
 ![4-Bit RCA](img/rca_layout.png)
+
+### 16-Bit Multiply-and-Accumulate (MAC) Schematic:
+
+![16-Bit MAC](img/mac_schem_1.png)
+
+![16-Bit MAC](img/mac_schem_2.png)
 ---
 
 ## Future Improvements
