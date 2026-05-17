@@ -97,11 +97,12 @@ Add screenshots of your:
 - Waveforms
 - MAC datapath diagrams
 
-Example:
+### 5. 1-Bit Full Adder Schematic
 
-```md
-![MAC Layout](images/mac-layout.png)
-```
+![1-Bit Full Adder Schematic](img/adder.png)
+
+
+
 
 ---
 
@@ -113,10 +114,3 @@ Example:
 - Timing analysis automation
 - Larger datapath support (32-bit / 64-bit)
 - ASIC synthesis and fabrication flow
-
----
-
-## Author
-
-David [Last Name]  
-Computer Engineering & Computer Science Student at USC
